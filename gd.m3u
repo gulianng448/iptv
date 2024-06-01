@@ -4,43 +4,30 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东组播",广东珠江
 http://113.71.148.134:5555/udp/239.77.0.1:5146
-https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=2ad016a99da79454dc1d4b02b452b17b-hNtdMPxDV0FGRC9SgjSOiN%2By4EhVQ4QY1E6HNwIpFLz0UBuFyZCmuYeEzlunkqG6buDpXFMOvA%2BOgxMrWRTvWlLecCC82GrxQr7ULGAIjIQU9TGc%2BX9Gaz42K0skV%2FaUs9t3ELkyp%2BVC23ApQ%2FuuIa4bA%2F7Wkky9gbsiN61eW7bY1F1t4QFUR%2BvSP%2Ff3D08pefQrtlYLMWwhvOUnEc89N3VDf%2BenAYM0sICAaJ4oBhlv8wmdaVSFW8fAvyLMp6ZMCQhEUxo1ghLgqx6gEgg4NDG6ALd%2BXH1zonwyrMV7htD9Se0M9N4al9vU8JlwPkfrUfWnt6bQIQl6vwg3k60AehEpAKXrkpcLztxIDc6U5%2FHoGqL2WgsEiFNYfhRo7UQbfdvqACHozbCjDYJEHLn5tQ%3D%3D
 
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东组播",广东民生
 http://59.38.63.253:2052/udp/239.77.0.225:5146
-http://14.19.211.0:6688/udp/239.77.0.225:5146
-https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=873aef104d5ac630e94d0c711376d9a9-SraaV%2F2NSgOILgQo2lJOqIYB9H4ViGNpUf7cLHuDcciUI9I3wQxq2BK%2BzolNDvvzO%2BPFbn%2B2lMhSuboJpP37if2SWwWG58pcUXbFu1toPiSksj%2FvZlo5P0CZy2a3vI8M5%2F7O8eQguRvdFhxUnzgoOonnzE0IBbWGUzyotfkhnaRiMXdEMQSGb97l%2BoCRu2yk5zaNke1XShoGis4fTNw3EiN%2FeItvTQwBZ8gnvzU3OAc8T3%2BS8b1E0SE5xdwDNVGnx%2Fs%2F9njoEe7K%2Fsu5Exs%2Bns1NTs4bBTWdfP9vQ%2BwZJgkDCid0qaldqddeXrUsNvFi3DBmmj1zIc0m8ZAWwFR5zFYPnLnUM5MwA8aLE2NBBrFQ9cTaiP%2FX%2BzIoJx3%2Fid1ZKbaQuNka3bRq0EwTTBAK6A%3D%3D
 
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="广东组播",广东新闻
 http://59.38.63.253:2052/udp/239.77.0.173:5146
-http://14.19.211.0:6688/udp/239.77.0.173:5146
-https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=1d112ba1add55f471b748baaebc436df-9og0ETBBOB%2Bq1J%2BUQdABvBsfXyc8wwM4l2eIXj9vtZUFyVu58Eg%2FURKYTOCh0y68IMMu1ONf53Tv8yEkCj%2Bi%2Fk7c8fo4%2B5ftP8RDtx2pwjVfR%2FPjFu%2BfzDkeW7cl3OYPBwVTQOSW7x79iTYgGlMaI6Kl0xMU8c1OcfxnzS45pNQa9sro5MouqrBFV6ghtAcJSJVs6IFOIHOnjH7QfPW6d5ls9fM2PgQ7LOf0JWQ9DJBFxe%2B51aRSJEAJKATh8r80r2eFKDAqzvCe0UpntwIRghzPSMOOTAuemr2oafEULPTY3%2F2Vg9MtoQbj0HEfaZQuE7Ceux7FBhZ9FXuTIDPRVtGtVy9N7boKL%2B6IZwLEBrjGQOd8YIENVu7NkoLG8s3Nx6U7As9JVetGH1UzBlNnzQ%3D%3D
 
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东组播",大湾区卫视
 http://59.38.63.253:2052/udp/239.77.0.215:5146
-http://14.19.211.0:6688/udp/239.77.0.215:5146
-https://tcdn.itouchtv.cn/live/nfws.m3u8?t_token=84c46cf3ffcbb7114a8fd54d4ee19a95-YScrZog3dHGoFEmnlgI1bV1fQzl3l4dFzyzIifaL7BYs5T7f8%2FwjY6NU66K%2BynvLpzoYNUnpalMu9%2BUVbRJX2ICqph6qpnkpzOowKASFbz9%2BBvnTyhhnA4g%2Bskx0S4ldnLPPIEr9rnpUqmZLCJnp7nHnJv9kHj5Zt5aaqBnlCDHCCY5PBdtX6UIM12OIggbp09NjINx7fAN6BDj9MO1gbp5wQK9nrD7Nf%2B%2BlJJmHa3VQTd9UX4dbp8rIReJ7pWKBocYuvWLlvtqWQTn%2BQLcqIm1poTEQWZJ%2FnTSyG3baK%2FnrRij7p5X%2Fih1vzK0jE9eq4ib2QGBFpq6nsfdIzPZnRsDksFc09GR%2F2ut5Iw4EqFGUSCujwrTm5NpuG3DUeZDF6kPhM1DUZXNu35VsOwMGqA%3D%3D
 
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东组播",广东影视
 http://59.38.63.253:2052/udp/239.77.0.217:5146
-http://14.19.211.0:6688/udp/239.77.0.217:5146
-https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=3fa7467571e94f7220228b89d34a7034-vTqZHfYm7TYeJu5wHv0yXYhYsgpdOoT6a8PeaB%2FNsVN0f%2FWZKw06zax87KFk1400HNrNLr2uPfyCFhXhVfUmrDNr986p4rKLKkp5JKh6PJChEQM%2FYNiYOq4EgtVGJZD9LYTC6%2BWVAvj%2B2MXNFHGsR2D2MN12C75ZENrGFM7g%2BP%2BDGR08HASdaBTUasdKfANxhBLvAZ49OlQT740E9eMrrK8xx3CLC78xwo3KZeP05bm%2F9Bt2yCeDbwkhqDnvJw0TeT2XFFceI5enjGpGkw42QNkr0RJdccrWYquB1UrAc4jEmHxLieMNYCTlIUREBinQ1yzmXg1%2FGBkIi61Uv%2BcSolfap1gwInjrwCq7BttMI7ZCpWDOi1%2FLWKsEmGnH7Kk4k%2BtoXnR5766SM8hRR%2BI9jg%3D%3D
 
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东组播",广东体育
 http://59.38.63.253:2052/udp/239.77.0.112:5146
-http://14.19.211.0:6688/udp/239.77.0.112:5146
-https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=b93f77701d27f68e73e2fb4d99a9d1a3-BShwi8ClMAiVoMrifbvdhEOJSLS%2FW1h2l%2BVoQCXKiMa6M9Cq8arS7ih1EUm2VApH1Gm5KSy4hJzotW8be1oBR%2B3cYTFRPgoZKPWZ84SQFHVnMh75KkE2Qwi7XJ79LWFfAncSHbvpQT6kujyQFso6ifKC6tGJNseEBUiAYpqUijGA4egNLm%2Bw4rlWUri7A21UbEzpqM3%2Bm16g7JKnOpZjcN7Gpxi6A%2F%2FDkDgSNdCGYnJ9nW49QKuaThDpE%2BS7yLnWgFPUoRdiRtY80cgX1wiytEzCis94t8lsdj03fAPbBkZnkDMTfLifIj%2F8mCTYwDzAESLbUzCQTovsATu7Ng%2FgpoWmm9757QgqMk%2FlPaj7D2m5D3PrAh1MeCexLwWynUUTfPlLkrilF1qtOBN%2BeJu9eA%3D%3D
 
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东组播",广东经济科教
 http://59.38.63.253:2052/udp/239.77.0.167:5146
-http://14.19.211.0:6688/udp/239.77.0.85:5146
-https://tcdn.itouchtv.cn/live/jjkj.m3u8?t_token=6d77bd2b5c8af078c807b0916b97605d-a7%2FRwfGXMr3A5F2oGmzmOxoUJGT2AeY8waZDSY2HUZw020ZnRrcgExcyB08aU2KMUNeTpalyVmR6ovU0qC%2BJmZum2hCOdJND3DA9QX%2BrX26WkqfVnNr45cjdz4VhjumjYO6uIxwJnzcHh5ruSLYv5Vc9sHTGLH3l6cmMWBuEHdg%2FFiVqSfNsBX5V0X5ZSKU5Ck4Doqc1w8WoOGhWollO8IRMGEw%2F0BweB%2Fu9NJ4TcV68T9CvTdPpIY3tR6auhDXVd0wt7SNJVGWnjp0uTjSbPPmPXXGSVjS%2FZMCQo01CNvVVtIXsjb%2BXPDO2UF58MRlAAofF5Y2FHDd39tWdwV%2BOzMquGF4fDOAl8DXYVw6u9G1GN1cjRiZBx3IZGxW2JCiYAwN6Zvqy3olK%2ByYtkwEE9w%3D%3D
 
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="广东组播",广东少儿
 http://59.38.63.253:2052/udp/239.77.0.250:5146
-http://14.19.211.0:6688/udp/239.77.0.250:5146
-https://tcdn.itouchtv.cn/live/gdse.m3u8?t_token=07866dc004296d263c83dbe59ee2a3d6-Oxt3vwPPiKOsp3HRR2xV%2BudCc5xbVjFRPXyuOTFwFbMWF%2Bu7GiTLRPrZT94Qr7Ydz%2Bj0XYC0NaoccAM9eFX%2ByJXjhmPQxVysvLBcwEYJI%2FIWntR8BLHoiAhpc7K91ZxLLOnfyttL75i6GgB4%2BtRzmS0Oc%2Ba7bEbTgE7W36KlyxTErLNZVJZrtnvuCT%2FujXQ81H6LY3P9PftAekoAyafO8VBtpU5GJ1RZ%2BnEbcP9AxeXx%2BHUMpyD76dVoMf9O2gam8Q5BVjyEUqWge%2FlHlImUuv6YIdW8X37DL6kSru8CpdxpKAdXO1vLYGAj%2FkqamVXAQQsSZCaqsscWu0Wi%2FJsxBU1M9h6pjbA7xhkIdA6n8qDYFUQBrD2wNI%2Bf6%2FR4SCUBJJi5%2FUZXhp1hGMt21v0UJw%3D%3D
 
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="广东组播",嘉佳卡通
 http://59.38.63.253:2052/udp/239.77.0.179:5146
-https://tcdn.itouchtv.cn/live/jjkt.m3u8?t_token=aea94f2be7cb7804a44521da7ed9c004-1XyY5HJ0b4ONkYffBWNf%2FvubnuEyIKY6WPoGSX5GSH5CZzXW5wB0M35wZylIh7sZ00knantd4y3XtmFBs%2BhdKLgAnYm%2B5bUf3Lz%2FFpmERdREfajfZXrRe1hqoHjcrLKMNGD9ldFJ%2FBFBzCROt7NeZKVIaDTmKm4kk0mDir8OsAeuMN3QyUjIGAFGPeTZDpiuYIYvotQp6EEKokZrFsBcl9v88vRDd%2F0cfizU1lhplaBdO%2BFLfV60YNGPxd19wgMbI0cP%2BViFngqYBoDO8CQjrsLKlIc0h5IvHBv8BckbKyReGLTBCklDl2uSBmBMAEtVjlzrao93uZr3ewKS2F0trcDME3CoYbRP%2FZkvlzr%2FSgOI%2FksNZJox%2FIXPU6oUg6ziu6I10i%2Bwn8JIoXIdT7LhBg%3D%3D
+
+#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://live.fanmingming.com/tv/深圳少儿.png" group-title="广东组播",深圳少儿
+http://58.63.64.22:8888/udp/239.77.1.244:5146
