@@ -7,7 +7,7 @@ http://192.168.50.1:4022/rtp/239.10.0.48:1025
 http://192.168.50.1:4022/rtp/239.10.0.207:1025
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV-3综艺.png",CCTV-3综艺
 http://192.168.50.1:4022/rtp/239.10.0.101:1025
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV-4国际.png",CCTV-4国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4国际.png",CCTV-4国际
 http://192.168.50.1:4022/rtp/239.10.0.245:1025
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV-4欧洲.png",CCTV-4欧洲
 http://192.168.50.1:4022/rtp/239.11.0.101:1025
@@ -47,29 +47,29 @@ http://192.168.50.1:4022/rtp/239.11.0.161:1025
 http://192.168.50.1:4022/rtp/239.11.0.162:1025
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/CCTV-兵器科技.png",CCTV-兵器科技
 http://192.168.50.1:4022/rtp/239.11.0.57:1025
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/CCTV-电视指南.png",CCTV-电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/CCTV电视指南.png",CCTV-电视指南
 http://192.168.50.1:4022/rtp/239.11.0.58:1025
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/CCTV-风云剧场.png",CCTV-风云剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/CCTV风云剧场.png",CCTV-风云剧场
 http://192.168.50.1:4022/rtp/239.11.0.65:1025
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/CCTV-风云音乐.png",CCTV-风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/CCTV风云音乐.png",CCTV-风云音乐
 http://192.168.50.1:4022/rtp/239.11.0.68:1025
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/CCTV-风云足球.png",CCTV-风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/CCTV风云足球.png",CCTV-风云足球
 http://192.168.50.1:4022/rtp/239.11.0.59:1025
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/CCTV-央视台球.png",CCTV-央视台球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/CCTV央视台球.png",CCTV-央视台球
 http://192.168.50.1:4022/rtp/239.11.0.60:1025
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/CCTV-高尔夫网球.png",CCTV-高尔夫网球
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/CCTV高尔夫网球.png",CCTV-高尔夫网球
 http://192.168.50.1:4022/rtp/239.11.0.61:1025
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/CCTV-女性时尚.png",CCTV-女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/CCTV女性时尚.png",CCTV-女性时尚
 http://192.168.50.1:4022/rtp/239.11.0.62:1025
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/CCTV-世界地理.png",CCTV-世界地理
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/CCTV世界地理.png",CCTV-世界地理
 http://192.168.50.1:4022/rtp/239.11.0.63:1025
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/CCTV-怀旧剧场.png",CCTV-怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/CCTV怀旧剧场.png",CCTV-怀旧剧场
 http://192.168.50.1:4022/rtp/239.11.0.64:1025
-#EXTINF:-1 tvg-name="央视精品" tvg-logo="https://epg.v1.mk/logo/CCTV-央视精品.png",CCTV-央视精品
+#EXTINF:-1 tvg-name="央视精品" tvg-logo="https://epg.v1.mk/logo/CCTV央视精品.png",CCTV-央视精品
 http://192.168.50.1:4022/rtp/239.11.0.66:1025
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/CCTV-第一剧场.png",CCTV-第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/CCTV第一剧场.png",CCTV-第一剧场
 http://192.168.50.1:4022/rtp/239.11.0.67:1025
-#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.v1.mk/logo/CCTV-卫生健康.png",CCTV-卫生健康
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.v1.mk/logo/CCTV卫生健康.png",CCTV-卫生健康
 http://192.168.50.1:4022/rtp/239.11.0.185:1025
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png",广东卫视
 http://192.168.50.1:4022/rtp/239.10.0.45:1025
