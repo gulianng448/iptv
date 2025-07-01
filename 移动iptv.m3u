@@ -45,7 +45,7 @@ http://192.168.50.1:4022/rtp/239.10.0.244:1025
 http://192.168.50.1:4022/rtp/239.11.0.161:1025
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/CCTV-4K.png",CCTV-4K
 http://192.168.50.1:4022/rtp/239.11.0.162:1025
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/CCTV-兵器科技.png",CCTV-兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/CCTV兵器科技.png",CCTV-兵器科技
 http://192.168.50.1:4022/rtp/239.11.0.57:1025
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/CCTV电视指南.png",CCTV-电视指南
 http://192.168.50.1:4022/rtp/239.11.0.58:1025
