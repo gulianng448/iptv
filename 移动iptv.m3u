@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 tvg-name="南国都市4K" tvg-logo="https://epg.v1.mk/logo/南国都市4K.png" group-title="4K超高清",南国都市4K
+http://192.168.50.1:4022/rtp/239.11.0.170:1025
+#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://epg.v1.mk/logo/广东4K.png" group-title="4K超高清",广东4K
+http://192.168.50.1:4022/rtp/239.10.0.74:1025
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="4K超高清",深圳卫视
 http://192.168.50.1:4022/rtp/239.11.0.195:1025
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="4K超高清",江苏卫视
@@ -27,8 +31,6 @@ http://192.168.50.1:4022/rtp/239.10.0.121:1025
 http://192.168.50.1:4022/rtp/239.10.0.199:1025
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="广东频道",广东新闻
 http://192.168.50.1:4022/rtp/239.10.0.122:1025
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东频道",广东卫视
-http://192.168.50.1:4022/rtp/239.10.0.64:1025
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东频道",广东卫视
 http://192.168.50.1:4022/rtp/239.10.0.45:1025
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东频道",广东卫视
@@ -297,8 +299,6 @@ http://192.168.50.1:4022/rtp/239.10.0.49:1025
 http://192.168.50.1:4022/rtp/239.10.0.115:1025
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://192.168.50.1:4022/rtp/239.10.0.145:1025
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视频道",广东卫视
-http://192.168.50.1:4022/rtp/239.10.0.64:1025
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://192.168.50.1:4022/rtp/239.10.0.45:1025
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视频道",广东卫视
